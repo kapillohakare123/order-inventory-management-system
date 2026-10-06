@@ -117,6 +117,8 @@ Use in-memory storage initially. Add Spring and database persistence after this 
 
 ## Progress tracker
 
+Detailed Week 1 tasks and acceptance criteria: [Week 1 checklist](<Week 1/to-dos/README.md>). Record session notes in the [learning log](<Week 1/to-dos/learning-log.md>).
+
 - [ ] Weeks 1–2: Plain Java order application
 - [ ] Weeks 3–4: REST API and PostgreSQL
 - [ ] Weeks 5–6: Security and reliable stock reservation
