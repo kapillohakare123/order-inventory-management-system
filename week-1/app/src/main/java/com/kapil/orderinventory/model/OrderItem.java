@@ -16,6 +16,7 @@ public class OrderItem {
         if (quantity <= 0) {
             throw new IllegalArgumentException("Quantity must be greater than zero");
         }
+
         this.productId = product.getId();
         this.productName = product.getName();
         this.unitPrice = product.getPrice();
